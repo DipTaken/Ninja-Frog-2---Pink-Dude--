@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HalfBottom
+  m_Controller: {fileID: 9100000, guid: 6b62631e0ea047243828b84d888da374, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: bbe50c987d07f854cbf791f376ffeb8f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ef207b28056ffa041b9f6c55505faa0c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b9d1617b23d537e43b504c7292636f76, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e297ee004d1a7cd4384ffc9997f95e85, type: 2}
