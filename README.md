@@ -1,4 +1,7 @@
 # Ninja Frog 2 - Pink Dude - 
+# PLAY HERE!!!
+https://diptaken.itch.io/ninja-frog-2
+#
 <p align="center">
   <img width="64" height="64" alt="Ninja Frog" src="https://github.com/user-attachments/assets/06802f5d-0c53-4936-a59f-09805060c4da" />
   <img width="128" height="128" alt="NinjaFrog2ico" src="https://github.com/user-attachments/assets/b2747345-94b8-4842-9c34-bb4f512fd49c" />
