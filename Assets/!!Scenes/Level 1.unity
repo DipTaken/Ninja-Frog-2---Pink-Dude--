@@ -51112,7 +51112,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   freeZoomSize: 12
-  offset: {x: 0, y: 3}
+  offset: {x: 0, y: 7}
 --- !u!114 &1394037707
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53583,11 +53583,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5560102187291217068, guid: ebb52fbe6e524274b8234cb830fa501a, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 47.999985
+      value: 48
       objectReference: {fileID: 0}
     - target: {fileID: 5560102188395143600, guid: ebb52fbe6e524274b8234cb830fa501a, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 47.99993
+      value: 47.99994
       objectReference: {fileID: 0}
     - target: {fileID: 5560102188548433826, guid: ebb52fbe6e524274b8234cb830fa501a, type: 3}
       propertyPath: m_Pivot.x
