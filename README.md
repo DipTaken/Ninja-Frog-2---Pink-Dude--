@@ -1,8 +1,14 @@
 # Ninja Frog 2 - Pink Dude
+<p align="center">
+  <img src="Assets/Icon/NinjaFrog2ico.png" width="128">
+</p>
+
+# 
 
 A 2D platformer project built in Unity featuring a level-based adventure with menu, settings, credits, and level selection scenes.
-
-![Gameplay Demo](INSERT_GAMEPLAY_GIF_URL)
+<p align="center">
+  <img src="gitassets/ninja-frog-level-2-gameplay.gif" style="width: 75%;">
+</p>
 
 ## Play in Browser
 
@@ -21,11 +27,17 @@ A 2D platformer project built in Unity featuring a level-based adventure with me
 
 ### Multi-level Progression
 Responsive 2D platformer mechanics with retro-style pixel art presentation.
-![Level Gameplay](INSERT_LEVEL_GIF_URL)
+
+<p align="center">
+  <img src="gitassets/ninja-frog-level-3-preview.gif" style="width: 75%;">
+</p>
 
 ### Navigation and Flow
 A complete UI flow including a main menu and level selection scenes.
-![Main Menu](INSERT_MENU_GIF_URL)
+
+<p align="center">
+  <img src="gitassets/ninja-frog-main-menu.gif" style="width: 75%;">
+</p>
 
 ### Extensibility
 Unity-based scene and gameplay setup designed for easy expansion and settings management.
@@ -39,4 +51,4 @@ Unity-based scene and gameplay setup designed for easy expansion and settings ma
 
 ## Notes
 
-* Third-party assets may be subject to their original licenses/copyright.****
+* Third-party assets may be subject to their original licenses/copyright.
