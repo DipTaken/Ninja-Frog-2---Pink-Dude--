@@ -13,7 +13,8 @@ A 2D platformer project built in Unity featuring a level-based adventure with me
 ## Play in Browser
 
 * **Play on Itch.io:** [Ninja Frog 2 - Pink Dude](https://diptaken.itch.io/ninja-frog-2)
-
+* Note there is a bug with the Itch version. Please click reset data if you are not able to select any levels.
+  
 ## Download
 
 * Latest release: [Ninja Frog 2 - Pink Dude (v1.0.1)](https://github.com/DipTaken/Ninja-Frog-2---Pink-Dude--/releases/tag/v1.0.1)
